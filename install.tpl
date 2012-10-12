@@ -2,7 +2,7 @@
 /**
  * ModernLogin
  * 
- * Fix the login window for MODX Revo.
+ * Fix the login window for MODX Evo.
  * @author	 Ryota Mannari <info@manse.jp>
  * @events OnManagerLoginFormRender
  * @modx_category Manager and Admin

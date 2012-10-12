@@ -1,10 +1,10 @@
-# ModernLogin for MODX Revo
+# ModernLogin for MODX Evo
 
-Fix the login window for MODX Revo.
+Fix the login window for MODX Evo.
 
 ## Requirements
 
- * MODX Revolution 1.0.5 or greater.
+ * MODX Evolution 1.0.5 or greater.
 
 ## Installation
 
