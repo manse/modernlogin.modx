@@ -1,5 +1,7 @@
 # ModernLogin for MODX Evo
 
+![screenshot](https://raw.github.com/manse/modernlogin.modx/master/screenshot.png)
+
 Fix the login window for MODX Evo.
 
 ## Requirements
